@@ -1,4 +1,4 @@
-name: Verify PNPM Dependencies
+name: Build Project
 
 on:
   push:
